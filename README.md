@@ -6,7 +6,7 @@ Applied Signal Processing Laboratory - Bachelor degree in Electronic and Communi
 - [Course description](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TUMLP)
 ### About the repository
 The repository stores the assignments relative to the class that were part of the final evaluation. These are divided into 7 topics:
-1. Introduction to signals and sampling
+1. Introduction to Signals and Sampling
 2. Signal Correlation
 3. Spectrum Analysis
 4. Digital Filtering
@@ -17,4 +17,4 @@ The repository stores the assignments relative to the class that were part of th
 Gloria Dal Santo, gloria.dalsanto@outlook.it  
 M.Sc. Electrical and Electronic Engineering, EPFL  
 B.Sc. Electronic and Communications Engineering, Politecnico di Torino  
-[Linkedin](www.linkedin.com/in/gloriadalsanto)
+[Linkedin](https://www.linkedin.com/in/gloriadalsanto/)

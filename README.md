@@ -3,7 +3,7 @@
 ### About the course 
 Applied Signal Processing Laboratory - Bachelor degree in Electronic and Communications Engineering at Politecnico di Torino 
 - Lecturers: Prof. Roberto Garello, Dr. Daniel Gaetano Riviello, and Dr. Giuseppe Rizelli
-- [Course content](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TUMLP)
+- [Course description](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TUMLP)
 ### About the repository
 The repository stores the assignments relative to the class that were part of the final evaluation. These are divided into 7 topics:
 1. Introduction to signals and sampling

@@ -17,6 +17,6 @@ The repository stores the assignments that were part of the final evaluation. Th
 Each assignment consists in the implementation of a Matlab program and a short report
 ### About the author 
 Gloria Dal Santo, gloria.dalsanto@outlook.it  
-M.Sc. Electrical and Electronic Engineering, EPFL  
-B.Sc. Electronic and Communications Engineering, Politecnico di Torino  
+M.Sc. in Electrical and Electronic Engineering at EPFL  
+B.Sc. in Electronic and Communications Engineering at Politecnico di Torino  
 [Linkedin](https://www.linkedin.com/in/gloriadalsanto/)
